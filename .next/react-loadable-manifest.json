@@ -1,0 +1,28 @@
+{
+  "app\\[slug]\\CategoryRootClient.tsx -> @/components/layout/Sidebar": {
+    "id": 3523,
+    "files": [
+      "static/chunks/789-d2012e006ddec5f5.js",
+      "static/chunks/3330.6c21d4516b64ad36.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/ui/NewsletterSection": {
+    "id": 4661,
+    "files": [
+      "static/chunks/789-d2012e006ddec5f5.js",
+      "static/chunks/4661.6d8fe2cd9a5ea2f7.js"
+    ]
+  },
+  "app\\post\\[slug]\\ArticleClient.tsx -> @/components/layout/Sidebar": {
+    "id": 3523,
+    "files": [
+      "static/chunks/3523.ec953cb17d7c7f5e.js"
+    ]
+  },
+  "components\\ui\\Hero.tsx -> ./NewsTicker": {
+    "id": 9410,
+    "files": [
+      "static/chunks/9410.b2d39b837180de88.js"
+    ]
+  }
+}
